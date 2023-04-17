@@ -1,7 +1,5 @@
 # Deep Learning Repo for group 10
 
-File containing a notebook with the ETL process is in de repo. Original files of the source code can be found with the following link:
-https://github.com/CupidJay/Tobias
+File containing a notebook with the extracting process of the CLIPART is in de repo, other domainnet datasets are extracted and processed in similair ways. Original files of the source code can be found with the following link:
+https://github.com/ArieSeirack/DHVT
 
-As the dataset is too large to upload on the repo, a link to the original download location is proviced below:
-https://www.cs.toronto.edu/~kriz/cifar.html
